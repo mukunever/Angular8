@@ -1,0 +1,69 @@
+Day -1
+CLI-Command
+-----------------
+npm install -g @angular/cli
+npm install -g @angular/cli@1.4.10
+npm install -g @angular/cli@8.3.21
+ng --version
+ng new EcomApp ( enter twice)
+npm start  & npm serve
+
+npm  install -g lite-server
+npm run build
+npm  install @angular/material
+npm  install @angular/material@8.2.3
+npm install nightwatch --save -dev
+
+npm install  --save classlist.js
+-------------------
+ng g c boaheader
+ng g c boaFooter
+
+npm install primeng --save ( menu)
+npm install primeicons --save (menu)
+
+================
+Day-2
+https://github.com/eswaribala/rps_angular_chn_2020
+
+npm install primeng --save
+npm install primeicons --save
+npm install --save web-animations-js
+npm install @angular/cdk@8.2.3
+
+
+Day-3:
+----------
+
+https://material.io/resources/icons/?style=baseline
+
+
+https://daimalerblog2019-cf.cfapps.io/
+https://daimalerblog2019-cf.cfapps.io/findallboausers  --get method
+https://daimalerblog2019-cf.cfapps.io/findboauserbyname/admin --get method
+https://daimalerblog2019-cf.cfapps.io/addboauser --post method
+
+Day 4
+--------- 
+
+ng add @angular/pwa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
